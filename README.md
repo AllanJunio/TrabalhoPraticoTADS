@@ -24,7 +24,7 @@ Sistema básico para gerenciamento de uma locadora de veículos, incluindo:
 ## 🗂️ Estrutura do Projeto
 
 ### Modelagem do Banco de Dados
-- **Entidades principais:** `Veiculo`, `Fabricante`, `Cliente`, `Aluguel` e `Pagamento` (ou outra entidade extra criada).  
+- **Entidades principais:** `Veiculo`, `Fabricante`, `Cliente`, `Aluguel` e `Categoria`.  
 - **Relacionamentos:** Uso de chaves primárias e estrangeiras para garantir integridade dos dados.
 
 ### Regras Implementadas
