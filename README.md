@@ -42,8 +42,10 @@ Sistema básico para gerenciamento de uma locadora de veículos, incluindo:
 ---
 
 ## 🚀 Como Executar
-dotnet build
-dotnet run
+- dotnet build
+- dotnet run
+
+---
 
 1. **Clone este repositório:**
    ```bash
